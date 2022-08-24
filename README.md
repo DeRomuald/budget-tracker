@@ -4,7 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Installation](#installation)
-* [Acknowledgements and Screenshot](#acknowledgements)
+* [Acknowledgements and Screenshot](#acknowledgements-and-screenshot)
 * [Contact](#contact)
 
 
