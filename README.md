@@ -32,6 +32,8 @@ npm start
  http:// locahost:3001 to use application
 
 ## Acknowledgements
+<img width="1440" alt="Screen Shot 2022-08-24 at 12 52 42 PM" src="https://user-images.githubusercontent.com/100550961/186478276-3d5cb14e-d29f-4b77-91b7-22fc1b887977.png">
+- screenshot
 - This project was inspired by UM Coding Boot Camp.
 
 ## Contacts
